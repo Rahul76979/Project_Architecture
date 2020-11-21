@@ -8,5 +8,5 @@ import com.dml.demo.DTO.UserDTO;
 @Repository
 public interface UserRepo extends JpaRepository<UserDTO,Integer>
 {
-
+	
 }
